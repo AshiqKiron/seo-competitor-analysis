@@ -1,4 +1,12 @@
 # WordPress-SEO-plugin-competitor-analysis
+
+[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Automation-2088FF?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![LLM](https://img.shields.io/badge/LLM-Groq%20%7C%20Llama%203.1-FF5A00?style=flat&logo=meta&logoColor=white)](https://groq.com)
+[![License](https://img.shields.io/badge/License-MIT-green?style=flat)](LICENSE)
+
+**AI-Powered Competitor Analysis Agent**
+
 An AI agent that fetches RSS feeds from Yoast, Rank Math &amp; The SEO Framework every Monday, detects new content, analyzes impact with LLM, and commits a markdown report to repo.
 
 **Overview**
@@ -7,11 +15,6 @@ A fully autonomous, stateful AI agent that monitors competitor RSS feeds, detect
 **Why it exists** 
 Competitor tracking is repetitive, easily outdated, and prone to human bias. This agent automates the collection → filtering → analysis → reporting loop, freeing PMs to focus on strategy, not spreadsheet updates.
 
-# 🤖 AI-Powered Competitor Analysis Agent
-[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-Automation-2088FF?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions)
-[![LLM](https://img.shields.io/badge/LLM-Groq%20%7C%20Llama%203.1-FF5A00?style=flat&logo=meta&logoColor=white)](https://groq.com)
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat)](LICENSE)
 
 > **Automated weekly intelligence gathering, LLM-driven impact analysis, and zero-cost deployment.**  
 > A production-ready agentic workflow that monitors competitor signals, detects strategic shifts, and generates PM-ready reports without manual tracking.
@@ -30,10 +33,10 @@ Designed for Product Managers, Growth Teams, and Strategy Ops who need consisten
 ---
 
 ## 🏗️ Architecture
-[GitHub Actions Cron] → [Fetch RSS Feeds] → [Diff vs Last Week] 
-       ↓
-[LLM Analysis (Groq)] → [Structured JSON Output] → [Markdown Report] 
-       ↓
+[GitHub Actions Cron] → [Fetch RSS Feeds] → [Diff vs Last Week] ↓
+
+[LLM Analysis (Groq)] → [Structured JSON Output] → [Markdown Report] ↓
+
 [Git State Persistence] → [Commit & Push] → [Ready for Notion/Slack/Email]
 
 **Stateful:** Compares against last week's snapshot to surface only new changes
@@ -48,41 +51,50 @@ Designed for Product Managers, Growth Teams, and Strategy Ops who need consisten
 4. View Output: reports/latest.md auto-updates weekly
 
 **🛠️ Tech Stack & Skills**
-**🤖 AI & LLM**
-Groq Cloud, Llama 3.1/Mixtral, Prompt Engineering, Structured JSON Output, Zero-Hallucination Constraints
+
+**🤖 AI & LLM**: Groq Cloud, Llama 3.1/Mixtral, Prompt Engineering, Structured JSON Output, Zero-Hallucination Constraints
 LLM orchestration, prompt templating, response schema enforcement, confidence calibration
-**⚙️ Automation**
-GitHub Actions (Cron, Dispatch), Stateful Workflows, Git-based Versioning, CI/CD Pipelines
+
+**⚙️ Automation**: GitHub Actions (Cron, Dispatch), Stateful Workflows, Git-based Versioning, CI/CD Pipelines
 Event-driven automation, runner optimization, idempotent design, workflow debugging
-**🐍 Python**
-feedparser, requests, json, sys logging, Exponential backoff, Error handling
+
+**🐍 Python**: Feedparser, requests, json, sys logging, Exponential backoff, Error handling
 Data parsing, API integration, robust CLI scripting, unbuffered logging
 **🔧 DevOps**
 Environment Secrets, Node.js 24 Runtime, Caching (cache: pip), SHA-pin ready
 Secure secret management, cross-platform compatibility, cost-aware execution
 
 **📈 Next Steps & Roadmap**
-🟢 Phase 1: Delivery
+
+**🟢 Phase 1:** Delivery
 Auto-push reports to team channels
 Slack/MS Teams webhooks, Notion API sync, Email digests
-🟡 Phase 2: Intelligence
+
+**🟡 Phase 2:** Intelligence
 Track non-RSS signals
 HTML diff for pricing pages, App Store/Play Store changelogs, Twitter/LinkedIn monitoring
-🟠 Phase 3: Advanced AI
+
+**🟠 Phase 3:** Advanced AI
 Multi-step reasoning & memory
 RAG over historical reports, trend forecasting, multi-agent debate (CrewAI/LangGraph)
-🔴 Phase 4: Enterprise
+
+**🔴 Phase 4:** Enterprise
 Governance & scale
 Audit logs, prompt versioning, model fallback chains, cost tracking, RBAC, compliance scanning
+
+**Python:** Core orchestration language used to build the agent pipeline, handle HTTP requests, parse feed data, manage local state files, and implement robust error handling with exponential backoff and unbuffered logging for reliable GitHub Actions execution.
+
+**Groq API (Llama 3.1):** High-speed LLM inference provider used to analyze raw feed entries, detect strategic shifts, assign impact scores (low/medium/high), and generate actionable PM recommendations with sub-second latency and low token costs.
+
+**Prompt Engineering:** Crafted constrained system prompts with role definitions, strict output rules ("return ONLY JSON"), citation requirements, and hallucination guards to transform unstructured RSS data into consistent, production-ready insights.
+
+**JSON Schema Validation:** Implemented manual schema parsing in Python to enforce a predefined output structure (change, summary, impact, action), with regex extraction and graceful fallback logic when LLM responses deviated from the expected format.
+
+**feedparser:** Python library used to reliably parse and normalize RSS/Atom XML feeds from competitor blogs, extracting metadata (title, link, publication date, summary) while gracefully handling malformed XML, encoding issues, and missing fields.
+
+**Stateful Diffing:** Built a Git-backed snapshot system that stores weekly feed items in a local JSON file, compares new fetches against historical state to isolate only novel changes, enabling idempotent CI/CD runs and week-over-week trend tracking without duplicate alerts.
 
 **📜 License & Credits**
 MIT License
 Built with LangGraph concepts, Groq Cloud, and open-source Python ecosystem
 Inspired by modern Agentic AI patterns for Product Operations
-
-**Python:** Core orchestration language used to build the agent pipeline, handle HTTP requests, parse feed data, manage local state files, and implement robust error handling with exponential backoff and unbuffered logging for reliable GitHub Actions execution.
-**Groq API (Llama 3.1): **High-speed LLM inference provider used to analyze raw feed entries, detect strategic shifts, assign impact scores (low/medium/high), and generate actionable PM recommendations with sub-second latency and low token costs.
-**Prompt Engineering:** Crafted constrained system prompts with role definitions, strict output rules ("return ONLY JSON"), citation requirements, and hallucination guards to transform unstructured RSS data into consistent, production-ready insights.
-**JSON Schema Validation: **Implemented manual schema parsing in Python to enforce a predefined output structure (change, summary, impact, action), with regex extraction and graceful fallback logic when LLM responses deviated from the expected format.
-**feedparser: **Python library used to reliably parse and normalize RSS/Atom XML feeds from competitor blogs, extracting metadata (title, link, publication date, summary) while gracefully handling malformed XML, encoding issues, and missing fields.
-**Stateful Diffing:** Built a Git-backed snapshot system that stores weekly feed items in a local JSON file, compares new fetches against historical state to isolate only novel changes, enabling idempotent CI/CD runs and week-over-week trend tracking without duplicate alerts.
