@@ -1,0 +1,8 @@
+{
+  "competitors": [
+    {"name": "Yoast", "url": "https://yoast.com/seo-blog/feed/", "type": "rss"},
+    {"name": "Rank Math", "url": "https://rankmath.com/blog/feed/", "type": "rss"},
+    {"name": "SEO Framework", "url": "https://theseoframework.com/feed/", "type": "rss"}
+  ],
+  "llm_model": "llama-3.1-8b-instant"
+}
