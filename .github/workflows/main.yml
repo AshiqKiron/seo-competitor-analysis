@@ -5,6 +5,10 @@ on:
     - cron: '0 9 * * 1'  # Every Monday at 9 AM UTC
   workflow_dispatch:     # Allow manual trigger
 
+# ✅ Opt into Node.js 24 now to avoid deprecation warnings
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 permissions:
   contents: write
 
@@ -13,12 +17,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: 📥 Checkout repo
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0  # Get full history for state files
+        uses: actions/checkout@v5  # ✅ Updated to v5 (Node.js 24 compatible)
 
       - name: 🐍 Setup Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v5  # ✅ v5 already supports Node.js 24
         with:
           python-version: '3.11'
 
@@ -31,7 +33,7 @@ jobs:
         run: python agent.py
 
       - name: 💾 Commit & push results
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v5  # ✅ Already compatible
         with:
           commit_message: "🤖 Auto-update: competitor analysis ${{ github.run_number }}"
           file_pattern: "reports/*.md state/*.json"
