@@ -2,10 +2,10 @@ name: 🤖 Weekly SEO Competitor Analysis
 
 on:
   schedule:
-    - cron: '0 9 * * 1'  # Every Monday at 9 AM UTC
-  workflow_dispatch:     # Allow manual trigger
+    - cron: '0 9 * * 1'
+  workflow_dispatch:
 
-# ✅ Opt into Node.js 24 now to avoid deprecation warnings
+# ✅ Force Node.js 24 runtime to eliminate deprecation warning
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
@@ -17,10 +17,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: 📥 Checkout repo
-        uses: actions/checkout@v5  # ✅ Updated to v5 (Node.js 24 compatible)
+        uses: actions/checkout@v5  # ✅ Updated to v5
 
       - name: 🐍 Setup Python
-        uses: actions/setup-python@v5  # ✅ v5 already supports Node.js 24
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
@@ -33,7 +33,7 @@ jobs:
         run: python agent.py
 
       - name: 💾 Commit & push results
-        uses: stefanzweifel/git-auto-commit-action@v5  # ✅ Already compatible
+        uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "🤖 Auto-update: competitor analysis ${{ github.run_number }}"
           file_pattern: "reports/*.md state/*.json"
