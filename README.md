@@ -60,6 +60,7 @@ Event-driven automation, runner optimization, idempotent design, workflow debugg
 
 **🐍 Python**: Feedparser, requests, json, sys logging, Exponential backoff, Error handling
 Data parsing, API integration, robust CLI scripting, unbuffered logging
+
 **🔧 DevOps**
 Environment Secrets, Node.js 24 Runtime, Caching (cache: pip), SHA-pin ready
 Secure secret management, cross-platform compatibility, cost-aware execution
@@ -90,7 +91,7 @@ Audit logs, prompt versioning, model fallback chains, cost tracking, RBAC, compl
 
 **JSON Schema Validation:** Implemented manual schema parsing in Python to enforce a predefined output structure (change, summary, impact, action), with regex extraction and graceful fallback logic when LLM responses deviated from the expected format.
 
-**feedparser:** Python library used to reliably parse and normalize RSS/Atom XML feeds from competitor blogs, extracting metadata (title, link, publication date, summary) while gracefully handling malformed XML, encoding issues, and missing fields.
+**Feedparser:** Python library used to reliably parse and normalize RSS/Atom XML feeds from competitor blogs, extracting metadata (title, link, publication date, summary) while gracefully handling malformed XML, encoding issues, and missing fields.
 
 **Stateful Diffing:** Built a Git-backed snapshot system that stores weekly feed items in a local JSON file, compares new fetches against historical state to isolate only novel changes, enabling idempotent CI/CD runs and week-over-week trend tracking without duplicate alerts.
 
