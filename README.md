@@ -80,3 +80,9 @@ MIT License
 Built with LangGraph concepts, Groq Cloud, and open-source Python ecosystem
 Inspired by modern Agentic AI patterns for Product Operations
 
+**Python:** Core orchestration language used to build the agent pipeline, handle HTTP requests, parse feed data, manage local state files, and implement robust error handling with exponential backoff and unbuffered logging for reliable GitHub Actions execution.
+**Groq API (Llama 3.1): **High-speed LLM inference provider used to analyze raw feed entries, detect strategic shifts, assign impact scores (low/medium/high), and generate actionable PM recommendations with sub-second latency and low token costs.
+**Prompt Engineering:** Crafted constrained system prompts with role definitions, strict output rules ("return ONLY JSON"), citation requirements, and hallucination guards to transform unstructured RSS data into consistent, production-ready insights.
+**JSON Schema Validation: **Implemented manual schema parsing in Python to enforce a predefined output structure (change, summary, impact, action), with regex extraction and graceful fallback logic when LLM responses deviated from the expected format.
+**feedparser: **Python library used to reliably parse and normalize RSS/Atom XML feeds from competitor blogs, extracting metadata (title, link, publication date, summary) while gracefully handling malformed XML, encoding issues, and missing fields.
+**Stateful Diffing:** Built a Git-backed snapshot system that stores weekly feed items in a local JSON file, compares new fetches against historical state to isolate only novel changes, enabling idempotent CI/CD runs and week-over-week trend tracking without duplicate alerts.
