@@ -1,6 +1,12 @@
 {
   "Yoast": [
     {
+      "title": "New: Yoast AI Content Planner turns a blank post into a structured draft",
+      "link": "https://yoast.com/yoast-seo-premium-may-12-2026/",
+      "published": "Tue, 12 May 2026 08:47:17 +0000",
+      "summary": "<p>If&#160;you&#8217;ve&#160;ever opened a new post and&#160;immediately&#160;closed it again because you had no idea what to write, this&#160;one&#8217;s&#160;for you.&#160; Yoast AI Content Planner "
+    },
+    {
       "title": "The April 2026 SEO Update by Yoast recap",
       "link": "https://yoast.com/april-2026-seo-update-by-yoast-recap/",
       "published": "Wed, 29 Apr 2026 11:42:42 +0000",
@@ -23,12 +29,6 @@
       "link": "https://yoast.com/discoverability-with-agentic-ai-for-seo/",
       "published": "Tue, 28 Apr 2026 07:00:04 +0000",
       "summary": "<p>In our Rethinking SEO in the age of AI article, we briefly explored how AI might move beyond simple prompt-and-response interactions. One emerging direction is agentic AI. Systems that can take act"
-    },
-    {
-      "title": "Why your product is your most important SEO asset",
-      "link": "https://yoast.com/why-your-product-is-your-most-important-seo-asset/",
-      "published": "Thu, 23 Apr 2026 13:28:16 +0000",
-      "summary": "<p>For a long time, we defined SEO success by rankings and traffic. If you reached the top of the search results and brought people to your site, you did your job. That approach worked when discovery "
     }
   ],
   "Rank Math": [
