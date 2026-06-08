@@ -1,6 +1,18 @@
 {
   "Yoast": [
     {
+      "title": "What is agentic commerce? A peek into the future of buying (with caveats)",
+      "link": "https://yoast.com/what-is-agentic-commerce/",
+      "published": "Mon, 08 Jun 2026 11:55:36 +0000",
+      "summary": "<p>Commerce has undergone several major shifts over the past few decades. What started with localized physical stores evolved into borderless, internet-driven ecommerce experiences. Now, with the rise"
+    },
+    {
+      "title": "How to get blog post ideas: Tips to find inspiration",
+      "link": "https://yoast.com/tips-for-blog-ideas/",
+      "published": "Thu, 04 Jun 2026 14:26:16 +0000",
+      "summary": "<p>What do you do when inspiration for your umpteenth blog post is low? What\u2019s the solution to writer\u2019s block or a general lack of ideas? Every writer will encounter a lack of inspiration from time to"
+    },
+    {
       "title": "What is SEO (Search Engine Optimization)?",
       "link": "https://yoast.com/what-is-seo/",
       "published": "Mon, 01 Jun 2026 14:15:44 +0000",
@@ -17,18 +29,6 @@
       "link": "https://yoast.com/ultimate-guide-blogging/",
       "published": "Thu, 28 May 2026 08:05:17 +0000",
       "summary": "<p>This ultimate guide covers all the important aspects of blogging. Find out how to set up a successful blog or how to make yours even better!</p>\n<p>The post <a href=\"https://yoast.com/ultimate-guid"
-    },
-    {
-      "title": "Security patch: Yoast SEO Premium 27.6.1",
-      "link": "https://yoast.com/yoast-seo-premium-may-26-2026/",
-      "published": "Tue, 26 May 2026 08:47:23 +0000",
-      "summary": "<p>Yoast SEO Premium 27.6.1 is out now. This release&#160;contains&#160;a security fix affecting the Redirect Manager in Yoast SEO Premium.&#160;The good news:&#160;the vast majority of users are not "
-    },
-    {
-      "title": "The May 2026 SEO Update by Yoast recap",
-      "link": "https://yoast.com/the-may-2026-seo-update-by-yoast-recap/",
-      "published": "Fri, 22 May 2026 15:04:35 +0000",
-      "summary": "<p>Each month, we host an SEO update covering the latest in search and AI. In this edition, Carolyn Shelby and Alex Moss discussed Google\u2019s latest AI-driven changes, the impact of AI on content creati"
     }
   ],
   "Rank Math": [
