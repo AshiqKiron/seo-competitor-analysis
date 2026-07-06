@@ -1,6 +1,24 @@
 {
   "Yoast": [
     {
+      "title": "Got an old website? Update it and refresh your SEO",
+      "link": "https://yoast.com/old-website-update-and-refresh-seo/",
+      "published": "Mon, 06 Jul 2026 12:46:52 +0000",
+      "summary": "<p>Has your website seen better days, and are you looking to restore it to its former glory? Look no further. We will help you get your site up to today&#8217;s standards and make that splash online. "
+    },
+    {
+      "title": "Yoast SEO now works with Elementor\u2019s new atomic editor",
+      "link": "https://yoast.com/yoast-seo-july-6-2026/",
+      "published": "Mon, 06 Jul 2026 08:52:07 +0000",
+      "summary": "<p>Elementor recently introduced a new way to build pages, called the atomic editor. If you&#8217;d switched to it, you may have noticed something annoying: Yoast SEO couldn&#8217;t see your content. "
+    },
+    {
+      "title": "The June 2026 SEO Update by Yoast recap",
+      "link": "https://yoast.com/the-june-2026-seo-update-by-yoast-recap/",
+      "published": "Wed, 01 Jul 2026 15:02:35 +0000",
+      "summary": "<p>Each month, we host the SEO update by Yoast covering the latest in search and AI. In this edition, Carolyn Shelby and Alex Moss discussed Google\u2019s evolving stance on AI-driven search, publisher con"
+    },
+    {
       "title": "The SEO Update by Yoast \u2013 August 2026",
       "link": "https://yoast.com/podcast/the-seo-update-by-yoast-august-2026/",
       "published": "Mon, 29 Jun 2026 08:26:10 +0000",
@@ -11,27 +29,21 @@
       "link": "https://yoast.com/podcast/qa-google-updates-ai-search-and-what-actually-matters-for-your-blog-in-2026/",
       "published": "Wed, 24 Jun 2026 12:48:12 +0000",
       "summary": "<p>Join Carolyn Shelby, Samah Nasr, and Areej AbuAli for a community chat on learning, support, and growth in SEO.</p>\n<p>The post <a href=\"https://yoast.com/podcast/qa-google-updates-ai-search-and-wh"
-    },
-    {
-      "title": "New: Yoast releases performance optimizations for larger websites",
-      "link": "https://yoast.com/yoast-seo-june-12-2026/",
-      "published": "Fri, 12 Jun 2026 11:03:34 +0000",
-      "summary": "<p>With our latest 27.8 release, we introduced performance optimizations that should reduce loading times throughout the plugin\u2019s functionalities, especially noticeable in large sites with lots of pos"
-    },
-    {
-      "title": "What is agentic commerce? A peek into the future of buying (with caveats)",
-      "link": "https://yoast.com/what-is-agentic-commerce/",
-      "published": "Mon, 08 Jun 2026 11:55:36 +0000",
-      "summary": "<p>Commerce has undergone several major shifts over the past few decades. What started with localized physical stores evolved into borderless, internet-driven ecommerce experiences. Now, with the rise"
-    },
-    {
-      "title": "How to get blog post ideas: Tips to find inspiration",
-      "link": "https://yoast.com/tips-for-blog-ideas/",
-      "published": "Thu, 04 Jun 2026 14:26:16 +0000",
-      "summary": "<p>What do you do when inspiration for your umpteenth blog post is low? What\u2019s the solution to writer\u2019s block or a general lack of ideas? Every writer will encounter a lack of inspiration from time to"
     }
   ],
   "Rank Math": [
+    {
+      "title": "Introducing AI Visibility Tracking in Rank Math",
+      "link": "https://rankmath.com/blog/ai-visibility/",
+      "published": "Wed, 01 Jul 2026 13:55:00 +0000",
+      "summary": "<p><img src=\"https://rankmath.com/wp-content/uploads/2026/06/AI-Visibility-Teaser-Thumbnail-v4.jpg\" style=\"display: block; margin: 1em auto;\" /></p>\n<p>Search is changing, and it\u2019s happening faster th"
+    },
+    {
+      "title": "7 Best AI Search Visibility Tools to Improve Your Brand Presence in AI Search",
+      "link": "https://rankmath.com/blog/best-ai-search-visibility-tools/",
+      "published": "Mon, 29 Jun 2026 07:57:38 +0000",
+      "summary": "<p><img src=\"https://rankmath.com/wp-content/uploads/2026/06/Best-AI-Search-Visibility-Tools-to-Improve-Your-Brands-Presence-in-AI-Search.png\" style=\"display: block; margin: 1em auto;\" /></p>\n<p>For y"
+    },
     {
       "title": "7 Best Backlink Monitoring Tools We Recommend in 2026",
       "link": "https://rankmath.com/blog/best-backlink-monitoring-tools/",
@@ -49,18 +61,6 @@
       "link": "https://rankmath.com/blog/service-page-seo/",
       "published": "Fri, 10 Apr 2026 06:52:42 +0000",
       "summary": "<p><img src=\"https://rankmath.com/wp-content/uploads/2026/04/Service-Page-SEO-1.png\" style=\"display: block; margin: 1em auto;\" /></p>\n<p>Most service pages don\u2019t bring in leads, even when the business"
-    },
-    {
-      "title": "7 Growth Hacking Techniques: A Practical Guide to Rapid Business Expansion",
-      "link": "https://rankmath.com/blog/growth-hacking-techniques/",
-      "published": "Thu, 02 Apr 2026 14:30:10 +0000",
-      "summary": "<p><img src=\"https://rankmath.com/wp-content/uploads/2026/02/7-Growth-Hacking-Techniques.png\" style=\"display: block; margin: 1em auto;\" /></p>\n<p>Growth doesn\u2019t happen because you post more on social "
-    },
-    {
-      "title": "11 Must-Create Content Formats for AI Search Visibility",
-      "link": "https://rankmath.com/blog/content-formats-for-ai-search/",
-      "published": "Fri, 27 Mar 2026 16:48:47 +0000",
-      "summary": "<p><img src=\"https://rankmath.com/wp-content/uploads/2026/02/11-Must-Create-Content-Formats-for-AI-Search-Visibility.png\" style=\"display: block; margin: 1em auto;\" /></p>\n<p>AI search is quietly chang"
     }
   ],
   "SEO Framework": [
