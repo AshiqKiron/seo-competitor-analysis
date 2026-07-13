@@ -1,6 +1,12 @@
 {
   "Yoast": [
     {
+      "title": "The complete guide to building a website with AI: From prompt to publish",
+      "link": "https://yoast.com/building-a-website-with-ai-guide/",
+      "published": "Wed, 08 Jul 2026 07:52:33 +0000",
+      "summary": "<p>Do you know HTML, CSS, or JavaScript? A decade ago, not knowing how to code meant that building a website was expensive or time-consuming. Today, AI website builders have changed that. With just a "
+    },
+    {
       "title": "Got an old website? Update it and refresh your SEO",
       "link": "https://yoast.com/old-website-update-and-refresh-seo/",
       "published": "Mon, 06 Jul 2026 12:46:52 +0000",
@@ -23,15 +29,27 @@
       "link": "https://yoast.com/podcast/the-seo-update-by-yoast-august-2026/",
       "published": "Mon, 29 Jun 2026 08:26:10 +0000",
       "summary": "<p>Join Carolyn Shelby and Alex Moss for the latest SEO insights that matter.</p>\n<p>The post <a href=\"https://yoast.com/podcast/the-seo-update-by-yoast-august-2026/\">The SEO Update by Yoast \u2013 August "
-    },
-    {
-      "title": "Foodblogger Q&A: Google updates, AI search, and what actually matters for your blog in 2026",
-      "link": "https://yoast.com/podcast/qa-google-updates-ai-search-and-what-actually-matters-for-your-blog-in-2026/",
-      "published": "Wed, 24 Jun 2026 12:48:12 +0000",
-      "summary": "<p>Join Carolyn Shelby, Samah Nasr, and Areej AbuAli for a community chat on learning, support, and growth in SEO.</p>\n<p>The post <a href=\"https://yoast.com/podcast/qa-google-updates-ai-search-and-wh"
     }
   ],
   "Rank Math": [
+    {
+      "title": "5 Ways to Improve Your Brand\u2019s AI Visibility",
+      "link": "https://rankmath.com/blog/5-ways-to-improve-your-brands-ai-visibility/",
+      "published": "Mon, 13 Jul 2026 03:20:41 +0000",
+      "summary": "<p><img src=\"https://rankmath.com/wp-content/uploads/2026/05/5-Ways-to-Improve-your-Brands-AI-Visibility.png\" style=\"display: block; margin: 1em auto;\" /></p>\n<p>Ranking #1 on Google feels like a win,"
+    },
+    {
+      "title": "How to Optimize Brand Mentions in AI Search: A Comprehensive Guide",
+      "link": "https://rankmath.com/blog/how-to-optimize-brand-mentions-in-ai-search/",
+      "published": "Fri, 10 Jul 2026 07:11:34 +0000",
+      "summary": "<p><img src=\"https://rankmath.com/wp-content/uploads/2026/07/How-to-Optimize-Brand-Mentions-in-AI-Search.png\" style=\"display: block; margin: 1em auto;\" /></p>\n<p>If you&#8217;ve searched for anything "
+    },
+    {
+      "title": "10 Best AI Rank Tracking Tools to Monitor Your Search Visibility",
+      "link": "https://rankmath.com/blog/best-ai-rank-tracking-tools/",
+      "published": "Wed, 08 Jul 2026 08:12:36 +0000",
+      "summary": "<p><img src=\"https://rankmath.com/wp-content/uploads/2026/06/10-Best-AI-Rank-Tracking-Tools-to-Monitor-Your-Search-Visibility.png\" style=\"display: block; margin: 1em auto;\" /></p>\n<p>Search rankings a"
+    },
     {
       "title": "Introducing AI Visibility Tracking in Rank Math",
       "link": "https://rankmath.com/blog/ai-visibility/",
@@ -43,24 +61,6 @@
       "link": "https://rankmath.com/blog/best-ai-search-visibility-tools/",
       "published": "Mon, 29 Jun 2026 07:57:38 +0000",
       "summary": "<p><img src=\"https://rankmath.com/wp-content/uploads/2026/06/Best-AI-Search-Visibility-Tools-to-Improve-Your-Brands-Presence-in-AI-Search.png\" style=\"display: block; margin: 1em auto;\" /></p>\n<p>For y"
-    },
-    {
-      "title": "7 Best Backlink Monitoring Tools We Recommend in 2026",
-      "link": "https://rankmath.com/blog/best-backlink-monitoring-tools/",
-      "published": "Tue, 16 Jun 2026 08:40:05 +0000",
-      "summary": "<p><img src=\"https://rankmath.com/wp-content/uploads/2026/06/7-Best-Backlink-Monitoring-Tools-in-2026.png\" style=\"display: block; margin: 1em auto;\" /></p>\n<p>Backlinks are one of the most important f"
-    },
-    {
-      "title": "4 Million Websites & Counting: A Proud Milestone for Rank Math SEO",
-      "link": "https://rankmath.com/blog/4-million-installations/",
-      "published": "Wed, 22 Apr 2026 11:00:52 +0000",
-      "summary": "<p><img src=\"https://rankmath.com/wp-content/uploads/2026/04/4M-Active-Installations-Final-Blue.png\" style=\"display: block; margin: 1em auto;\" /></p>\n<p>We\u2019ve got some exciting news to share\u2026 \ud83c\udf89 Rank M"
-    },
-    {
-      "title": "Service Page SEO: Transform Any Service Page Into a Lead Magnet",
-      "link": "https://rankmath.com/blog/service-page-seo/",
-      "published": "Fri, 10 Apr 2026 06:52:42 +0000",
-      "summary": "<p><img src=\"https://rankmath.com/wp-content/uploads/2026/04/Service-Page-SEO-1.png\" style=\"display: block; margin: 1em auto;\" /></p>\n<p>Most service pages don\u2019t bring in leads, even when the business"
     }
   ],
   "SEO Framework": [
