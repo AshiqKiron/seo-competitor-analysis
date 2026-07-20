@@ -1,6 +1,18 @@
 {
   "Yoast": [
     {
+      "title": "Hosting guide: How to pick the right host for your site",
+      "link": "https://yoast.com/hosting-guide-how-to-pick-the-right-host-for-your-site/",
+      "published": "Mon, 20 Jul 2026 09:45:11 +0000",
+      "summary": "<p>Do you want to start a blog or online store? Then you\u2019ll need a website. But did you know you\u2019ll also need web hosting to get your website online? There are many aspects to web hosting, and you mig"
+    },
+    {
+      "title": "SEO for musicians: get found, grow fans, increase streams",
+      "link": "https://yoast.com/seo-tip-for-musicians/",
+      "published": "Tue, 14 Jul 2026 10:30:08 +0000",
+      "summary": "<p>Imagine writing a melody so catchy that people hum it for years. Now imagine that same song blowing up on TikTok or Instagram, only for listeners to remember the trend, the dance, or the sound, but"
+    },
+    {
       "title": "The complete guide to building a website with AI: From prompt to publish",
       "link": "https://yoast.com/building-a-website-with-ai-guide/",
       "published": "Wed, 08 Jul 2026 07:52:33 +0000",
@@ -17,24 +29,18 @@
       "link": "https://yoast.com/yoast-seo-july-6-2026/",
       "published": "Mon, 06 Jul 2026 08:52:07 +0000",
       "summary": "<p>Elementor recently introduced a new way to build pages, called the atomic editor. If you&#8217;d switched to it, you may have noticed something annoying: Yoast SEO couldn&#8217;t see your content. "
-    },
-    {
-      "title": "The June 2026 SEO Update by Yoast recap",
-      "link": "https://yoast.com/the-june-2026-seo-update-by-yoast-recap/",
-      "published": "Wed, 01 Jul 2026 15:02:35 +0000",
-      "summary": "<p>Each month, we host the SEO update by Yoast covering the latest in search and AI. In this edition, Carolyn Shelby and Alex Moss discussed Google\u2019s evolving stance on AI-driven search, publisher con"
-    },
-    {
-      "title": "The SEO Update by Yoast \u2013 August 2026",
-      "link": "https://yoast.com/podcast/the-seo-update-by-yoast-august-2026/",
-      "published": "Mon, 29 Jun 2026 08:26:10 +0000",
-      "summary": "<p>Join Carolyn Shelby and Alex Moss for the latest SEO insights that matter.</p>\n<p>The post <a href=\"https://yoast.com/podcast/the-seo-update-by-yoast-august-2026/\">The SEO Update by Yoast \u2013 August "
     }
   ],
   "Rank Math": [
     {
+      "title": "How to Easily Fix Negative Brand Sentiment in AI Search",
+      "link": "https://rankmath.com/blog/how-to-fix-negative-brand-sentiment-in-ai-search/",
+      "published": "Fri, 17 Jul 2026 03:38:03 +0000",
+      "summary": "<p><img src=\"https://rankmath.com/wp-content/uploads/2026/07/How-to-Fix-Negative-Brand-Sentiment-in-AI-Search.png\" style=\"display: block; margin: 1em auto;\" /></p>\n<p>AI platforms are increasingly sha"
+    },
+    {
       "title": "5 Ways to Improve Your Brand\u2019s AI Visibility",
-      "link": "https://rankmath.com/blog/5-ways-to-improve-your-brands-ai-visibility/",
+      "link": "https://rankmath.com/blog/improve-your-brands-ai-visibility/",
       "published": "Mon, 13 Jul 2026 03:20:41 +0000",
       "summary": "<p><img src=\"https://rankmath.com/wp-content/uploads/2026/05/5-Ways-to-Improve-your-Brands-AI-Visibility.png\" style=\"display: block; margin: 1em auto;\" /></p>\n<p>Ranking #1 on Google feels like a win,"
     },
@@ -55,12 +61,6 @@
       "link": "https://rankmath.com/blog/ai-visibility/",
       "published": "Wed, 01 Jul 2026 13:55:00 +0000",
       "summary": "<p><img src=\"https://rankmath.com/wp-content/uploads/2026/06/AI-Visibility-Teaser-Thumbnail-v4.jpg\" style=\"display: block; margin: 1em auto;\" /></p>\n<p>Search is changing, and it\u2019s happening faster th"
-    },
-    {
-      "title": "7 Best AI Search Visibility Tools to Improve Your Brand Presence in AI Search",
-      "link": "https://rankmath.com/blog/best-ai-search-visibility-tools/",
-      "published": "Mon, 29 Jun 2026 07:57:38 +0000",
-      "summary": "<p><img src=\"https://rankmath.com/wp-content/uploads/2026/06/Best-AI-Search-Visibility-Tools-to-Improve-Your-Brands-Presence-in-AI-Search.png\" style=\"display: block; margin: 1em auto;\" /></p>\n<p>For y"
     }
   ],
   "SEO Framework": [
