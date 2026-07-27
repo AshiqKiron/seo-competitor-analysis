@@ -1,6 +1,18 @@
 {
   "Yoast": [
     {
+      "title": "How long does it really take to build a website with AI?",
+      "link": "https://yoast.com/how-long-it-takes-to-build-website-with-ai/",
+      "published": "Mon, 27 Jul 2026 10:22:28 +0000",
+      "summary": "<p>Most AI website builders promise you can create a website in minutes, but what does that timeline actually include? While AI can generate a professional-looking website surprisingly quickly, you&#8"
+    },
+    {
+      "title": "New in the Yoast SEO Bulk Editor: filters, focus keyphrases, and AI drafts",
+      "link": "https://yoast.com/yoast-seo-july-21-2026/",
+      "published": "Tue, 21 Jul 2026 07:30:46 +0000",
+      "summary": "<p>The Yoast SEO Bulk Editor already gave you one place to update titles and meta descriptions across your whole site. Now it does much more. This release adds focus keyphrases to the editor, new sear"
+    },
+    {
       "title": "Hosting guide: How to pick the right host for your site",
       "link": "https://yoast.com/hosting-guide-how-to-pick-the-right-host-for-your-site/",
       "published": "Mon, 20 Jul 2026 09:45:11 +0000",
@@ -17,21 +29,21 @@
       "link": "https://yoast.com/building-a-website-with-ai-guide/",
       "published": "Wed, 08 Jul 2026 07:52:33 +0000",
       "summary": "<p>Do you know HTML, CSS, or JavaScript? A decade ago, not knowing how to code meant that building a website was expensive or time-consuming. Today, AI website builders have changed that. With just a "
-    },
-    {
-      "title": "Got an old website? Update it and refresh your SEO",
-      "link": "https://yoast.com/old-website-update-and-refresh-seo/",
-      "published": "Mon, 06 Jul 2026 12:46:52 +0000",
-      "summary": "<p>Has your website seen better days, and are you looking to restore it to its former glory? Look no further. We will help you get your site up to today&#8217;s standards and make that splash online. "
-    },
-    {
-      "title": "Yoast SEO now works with Elementor\u2019s new atomic editor",
-      "link": "https://yoast.com/yoast-seo-july-6-2026/",
-      "published": "Mon, 06 Jul 2026 08:52:07 +0000",
-      "summary": "<p>Elementor recently introduced a new way to build pages, called the atomic editor. If you&#8217;d switched to it, you may have noticed something annoying: Yoast SEO couldn&#8217;t see your content. "
     }
   ],
   "Rank Math": [
+    {
+      "title": "Rank Math MCP: AI-Powered SEO Automation for WordPress",
+      "link": "https://rankmath.com/blog/rank-math-mcp/",
+      "published": "Mon, 27 Jul 2026 07:09:40 +0000",
+      "summary": "<p><img src=\"https://rankmath.com/wp-content/uploads/2026/07/Rank-Math-MCP-AI-Powered-SEO-Automation-for-WordPress.png\" style=\"display: block; margin: 1em auto;\" /></p>\n<p>AI is changing how people cr"
+    },
+    {
+      "title": "15 Best SEO Plugins for WordPress to Boost Rankings",
+      "link": "https://rankmath.com/blog/best-seo-plugins-for-wordpress/",
+      "published": "Fri, 24 Jul 2026 07:28:02 +0000",
+      "summary": "<p><img src=\"https://rankmath.com/wp-content/uploads/2026/07/Best-SEO-Plugins-for-WordPress-to-Boost-Rankings.png\" style=\"display: block; margin: 1em auto;\" /></p>\n<p>WordPress powers millions of webs"
+    },
     {
       "title": "How to Easily Fix Negative Brand Sentiment in AI Search",
       "link": "https://rankmath.com/blog/how-to-fix-negative-brand-sentiment-in-ai-search/",
@@ -49,18 +61,6 @@
       "link": "https://rankmath.com/blog/how-to-optimize-brand-mentions-in-ai-search/",
       "published": "Fri, 10 Jul 2026 07:11:34 +0000",
       "summary": "<p><img src=\"https://rankmath.com/wp-content/uploads/2026/07/How-to-Optimize-Brand-Mentions-in-AI-Search.png\" style=\"display: block; margin: 1em auto;\" /></p>\n<p>If you&#8217;ve searched for anything "
-    },
-    {
-      "title": "10 Best AI Rank Tracking Tools to Monitor Your Search Visibility",
-      "link": "https://rankmath.com/blog/best-ai-rank-tracking-tools/",
-      "published": "Wed, 08 Jul 2026 08:12:36 +0000",
-      "summary": "<p><img src=\"https://rankmath.com/wp-content/uploads/2026/06/10-Best-AI-Rank-Tracking-Tools-to-Monitor-Your-Search-Visibility.png\" style=\"display: block; margin: 1em auto;\" /></p>\n<p>Search rankings a"
-    },
-    {
-      "title": "Introducing AI Visibility Tracking in Rank Math",
-      "link": "https://rankmath.com/blog/ai-visibility/",
-      "published": "Wed, 01 Jul 2026 13:55:00 +0000",
-      "summary": "<p><img src=\"https://rankmath.com/wp-content/uploads/2026/06/AI-Visibility-Teaser-Thumbnail-v4.jpg\" style=\"display: block; margin: 1em auto;\" /></p>\n<p>Search is changing, and it\u2019s happening faster th"
     }
   ],
   "SEO Framework": [
