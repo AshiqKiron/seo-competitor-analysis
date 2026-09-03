@@ -1,6 +1,24 @@
 {
   "Yoast": [
     {
+      "title": "Prompts to programming: Vibe coding vs. traditional coding a website",
+      "link": "https://yoast.com/traditional-coding-vs-vibe-coding-website/",
+      "published": "Wed, 02 Sep 2026 13:46:42 +0000",
+      "summary": "<p>Good vibes can spark great ideas, and now they can even help you build a website. With vibe coding, you don&#8217;t need to start by writing lines of code. Instead, you tell AI what you want to cre"
+    },
+    {
+      "title": "The August 2026 SEO Update by Yoast recap",
+      "link": "https://yoast.com/the-august-2026-seo-update-by-yoast-recap/",
+      "published": "Wed, 02 Sep 2026 10:00:15 +0000",
+      "summary": "<p>Each month, we host the SEO Update by Yoast, covering the latest in search and AI. In this edition, Carolyn Shelby and Alex Moss discussed Google\u2019s new tools for publishers, the impact of AI on sea"
+    },
+    {
+      "title": "What\u2019s new in Yoast SEO 28.4: find, fix, and generate at scale",
+      "link": "https://yoast.com/yoast-seo-sept-1-2026/",
+      "published": "Tue, 01 Sep 2026 08:53:20 +0000",
+      "summary": "<p>The Yoast SEO Bulk Editor already helps you update titles, meta descriptions, and focus keyphrases across your whole site, filter by content type, and let Yoast AI draft metadata you approve before"
+    },
+    {
       "title": "The SEO Update by Yoast \u2013 September 2026",
       "link": "https://yoast.com/podcast/the-seo-update-by-yoast-september-2026/",
       "published": "Tue, 25 Aug 2026 09:19:25 +0000",
@@ -11,27 +29,15 @@
       "link": "https://yoast.com/podcast/the-page-2-podcast-what-seos-must-know-to-get-chosen-by-ai/",
       "published": "Wed, 05 Aug 2026 11:57:16 +0000",
       "summary": "<p>In the latest episode of The Page 2 Podcast, Alex Moss explored what it takes for brands to be selected by AI agents.</p>\n<p>The post <a href=\"https://yoast.com/podcast/the-page-2-podcast-what-seos"
-    },
-    {
-      "title": "How long does it really take to build a website with AI?",
-      "link": "https://yoast.com/how-long-it-takes-to-build-website-with-ai/",
-      "published": "Mon, 27 Jul 2026 10:22:28 +0000",
-      "summary": "<p>Most AI website builders promise you can create a website in minutes, but what does that timeline actually include? While AI can generate a professional-looking website surprisingly quickly, you&#8"
-    },
-    {
-      "title": "New in the Yoast SEO Bulk Editor: filters, focus keyphrases, and AI drafts",
-      "link": "https://yoast.com/yoast-seo-july-21-2026/",
-      "published": "Tue, 21 Jul 2026 07:30:46 +0000",
-      "summary": "<p>The Yoast SEO Bulk Editor already gave you one place to update titles and meta descriptions across your whole site. Now it does much more. This release adds focus keyphrases to the editor, new sear"
-    },
-    {
-      "title": "Hosting guide: How to pick the right host for your site",
-      "link": "https://yoast.com/hosting-guide-how-to-pick-the-right-host-for-your-site/",
-      "published": "Mon, 20 Jul 2026 09:45:11 +0000",
-      "summary": "<p>Do you want to start a blog or online store? Then you\u2019ll need a website. But did you know you\u2019ll also need web hosting to get your website online? There are many aspects to web hosting, and you mig"
     }
   ],
   "Rank Math": [
+    {
+      "title": "MonsterInsights vs Rank Math Analytics: Which WordPress Analytics Tool Is Right for You?",
+      "link": "https://rankmath.com/blog/monsterinsights-vs-rank-math-analytics/",
+      "published": "Wed, 02 Sep 2026 05:31:07 +0000",
+      "summary": "<p><img src=\"https://rankmath.com/wp-content/uploads/2026/08/Monsterinsights-vs-Rank-Math-Analytics-Which-WordPress-Analytics-Tool-Is-Right-for-You.png\" style=\"display: block; margin: 1em auto;\" /></p"
+    },
     {
       "title": "7 Best Affordable SEO Services: Get More Traffic Without Breaking the Bank",
       "link": "https://rankmath.com/blog/seo-services/",
@@ -55,12 +61,6 @@
       "link": "https://rankmath.com/blog/content-optimization-plugins/",
       "published": "Mon, 03 Aug 2026 05:12:01 +0000",
       "summary": "<p><img src=\"https://rankmath.com/wp-content/uploads/2026/07/Best-Content-Optimization-Plugins-for-WordPress.png\" style=\"display: block; margin: 1em auto;\" /></p>\n<p>Publishing useful content is only "
-    },
-    {
-      "title": "Rank Math MCP: AI-Powered SEO Automation for WordPress",
-      "link": "https://rankmath.com/blog/rank-math-mcp/",
-      "published": "Mon, 27 Jul 2026 07:09:40 +0000",
-      "summary": "<p><img src=\"https://rankmath.com/wp-content/uploads/2026/07/Rank-Math-MCP-AI-Powered-SEO-Automation-for-WordPress.png\" style=\"display: block; margin: 1em auto;\" /></p>\n<p>AI is changing how people cr"
     }
   ],
   "SEO Framework": [
