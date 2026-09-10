@@ -1,6 +1,12 @@
 {
   "Yoast": [
     {
+      "title": "Winning With Shopify podcast: Everything you need to get started on SEO with Shopify",
+      "link": "https://yoast.com/podcast/winning-with-shopify-podcast-everything-you-need-to-get-started-on-seo-with-shopify/",
+      "published": "Tue, 08 Sep 2026 09:46:29 +0000",
+      "summary": "<p>In the Winning With Shopify podcast, Alex Moss shares practical ways Shopify brands can prepare for the future of AI-powered discovery.</p>\n<p>The post <a href=\"https://yoast.com/podcast/winning-wi"
+    },
+    {
       "title": "Prompts to programming: Vibe coding vs. traditional coding a website",
       "link": "https://yoast.com/traditional-coding-vs-vibe-coding-website/",
       "published": "Wed, 02 Sep 2026 13:46:42 +0000",
@@ -23,15 +29,15 @@
       "link": "https://yoast.com/podcast/the-seo-update-by-yoast-september-2026/",
       "published": "Tue, 25 Aug 2026 09:19:25 +0000",
       "summary": "<p>Join Carolyn Shelby and Alex Moss for the latest SEO insights that matter.</p>\n<p>The post <a href=\"https://yoast.com/podcast/the-seo-update-by-yoast-september-2026/\">The SEO Update by Yoast \u2013 Sept"
-    },
-    {
-      "title": "The Page 2 Podcast: What SEOs must know to get chosen by AI",
-      "link": "https://yoast.com/podcast/the-page-2-podcast-what-seos-must-know-to-get-chosen-by-ai/",
-      "published": "Wed, 05 Aug 2026 11:57:16 +0000",
-      "summary": "<p>In the latest episode of The Page 2 Podcast, Alex Moss explored what it takes for brands to be selected by AI agents.</p>\n<p>The post <a href=\"https://yoast.com/podcast/the-page-2-podcast-what-seos"
     }
   ],
   "Rank Math": [
+    {
+      "title": "The Best White Label SEO Tools to Save Time and Win More Clients",
+      "link": "https://rankmath.com/blog/white-label-seo-tools/",
+      "published": "Tue, 08 Sep 2026 06:03:07 +0000",
+      "summary": "<p><img src=\"https://rankmath.com/wp-content/uploads/2026/09/The-Best-White-Label-SEO-Tools-to-Save-Time-and-Win-More-Clients.png\" style=\"display: block; margin: 1em auto;\" /></p>\n<p>Running an SEO ag"
+    },
     {
       "title": "MonsterInsights vs Rank Math Analytics: Which WordPress Analytics Tool Is Right for You?",
       "link": "https://rankmath.com/blog/monsterinsights-vs-rank-math-analytics/",
@@ -55,12 +61,6 @@
       "link": "https://rankmath.com/blog/best-schema-markup-plugins-for-wordpress/",
       "published": "Mon, 10 Aug 2026 02:58:15 +0000",
       "summary": "<p><img src=\"https://rankmath.com/wp-content/uploads/2026/08/Best-Schema-Markup-Plugins-for-WordPress.png\" style=\"display: block; margin: 1em auto;\" /></p>\n<p>Schema markup has become one of the most "
-    },
-    {
-      "title": "7 Best Content Optimization Plugins for WordPress",
-      "link": "https://rankmath.com/blog/content-optimization-plugins/",
-      "published": "Mon, 03 Aug 2026 05:12:01 +0000",
-      "summary": "<p><img src=\"https://rankmath.com/wp-content/uploads/2026/07/Best-Content-Optimization-Plugins-for-WordPress.png\" style=\"display: block; margin: 1em auto;\" /></p>\n<p>Publishing useful content is only "
     }
   ],
   "SEO Framework": [
