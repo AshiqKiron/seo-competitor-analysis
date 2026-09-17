@@ -1,6 +1,18 @@
 {
   "Yoast": [
     {
+      "title": "A prompting guide for AI website builders",
+      "link": "https://yoast.com/prompting-guide-ai-website-builders/",
+      "published": "Thu, 17 Sep 2026 12:51:25 +0000",
+      "summary": "<p>AI website builders make it possible to go from a blank screen to a live website in minutes. Which is a great option if you want to get your website live, but don\u2019t have the technical skills to get"
+    },
+    {
+      "title": "WithinWP podcast: Humans, agents, and authenticity: rethinking search and sites in WordPress with Alex Moss",
+      "link": "https://yoast.com/podcast/withinwp-podcast-humans-agents-and-authenticity-rethinking-search-and-sites-in-wordpress-with-alex-moss/",
+      "published": "Thu, 17 Sep 2026 11:18:58 +0000",
+      "summary": "<p>In the Within WordPress podcast, Alex Moss explores how AI agents, multi-LLM workflows, and changing search habits are reshaping SEO and the future of the web.</p>\n<p>The post <a href=\"https://yoas"
+    },
+    {
       "title": "Winning With Shopify podcast: Everything you need to get started on SEO with Shopify",
       "link": "https://yoast.com/podcast/winning-with-shopify-podcast-everything-you-need-to-get-started-on-seo-with-shopify/",
       "published": "Tue, 08 Sep 2026 09:46:29 +0000",
@@ -17,21 +29,15 @@
       "link": "https://yoast.com/the-august-2026-seo-update-by-yoast-recap/",
       "published": "Wed, 02 Sep 2026 10:00:15 +0000",
       "summary": "<p>Each month, we host the SEO Update by Yoast, covering the latest in search and AI. In this edition, Carolyn Shelby and Alex Moss discussed Google\u2019s new tools for publishers, the impact of AI on sea"
-    },
-    {
-      "title": "What\u2019s new in Yoast SEO 28.4: find, fix, and generate at scale",
-      "link": "https://yoast.com/yoast-seo-sept-1-2026/",
-      "published": "Tue, 01 Sep 2026 08:53:20 +0000",
-      "summary": "<p>The Yoast SEO Bulk Editor already helps you update titles, meta descriptions, and focus keyphrases across your whole site, filter by content type, and let Yoast AI draft metadata you approve before"
-    },
-    {
-      "title": "The SEO Update by Yoast \u2013 September 2026",
-      "link": "https://yoast.com/podcast/the-seo-update-by-yoast-september-2026/",
-      "published": "Tue, 25 Aug 2026 09:19:25 +0000",
-      "summary": "<p>Join Carolyn Shelby and Alex Moss for the latest SEO insights that matter.</p>\n<p>The post <a href=\"https://yoast.com/podcast/the-seo-update-by-yoast-september-2026/\">The SEO Update by Yoast \u2013 Sept"
     }
   ],
   "Rank Math": [
+    {
+      "title": "7 Best WordPress Site Management Plugins",
+      "link": "https://rankmath.com/blog/wordpress-site-management-plugins/",
+      "published": "Tue, 15 Sep 2026 04:05:37 +0000",
+      "summary": "<p><img src=\"https://rankmath.com/wp-content/uploads/2026/09/Best-WordPress-Site-Management-Plugins.png\" style=\"display: block; margin: 1em auto;\" /></p>\n<p>Managing a WordPress website involves much "
+    },
     {
       "title": "The Best White Label SEO Tools to Save Time and Win More Clients",
       "link": "https://rankmath.com/blog/white-label-seo-tools/",
@@ -55,12 +61,6 @@
       "link": "https://rankmath.com/blog/google-search-console-plugins-for-wordpress/",
       "published": "Mon, 17 Aug 2026 06:29:38 +0000",
       "summary": "<p><img src=\"https://rankmath.com/wp-content/uploads/2026/08/Best-Google-Search-Console-Plugins.png\" style=\"display: block; margin: 1em auto;\" /></p>\n<p>If you run a WordPress website, Google Search C"
-    },
-    {
-      "title": "5 Best Schema Markup Plugins for WordPress to Boost Rich Results",
-      "link": "https://rankmath.com/blog/best-schema-markup-plugins-for-wordpress/",
-      "published": "Mon, 10 Aug 2026 02:58:15 +0000",
-      "summary": "<p><img src=\"https://rankmath.com/wp-content/uploads/2026/08/Best-Schema-Markup-Plugins-for-WordPress.png\" style=\"display: block; margin: 1em auto;\" /></p>\n<p>Schema markup has become one of the most "
     }
   ],
   "SEO Framework": [
