@@ -1,6 +1,18 @@
 {
   "Yoast": [
     {
+      "title": "Yoast SEO vs All in One SEO: which WordPress plugin is right for you?",
+      "link": "https://yoast.com/yoast-vs-all-in-one-seo/",
+      "published": "Wed, 07 Oct 2026 12:17:58 +0000",
+      "summary": "<p>If you&#8217;re weighing Yoast SEO vs All in One SEO, you&#8217;re asking the right question. Your SEO plugin touches almost every page you publish. It shapes how search engines read your site and "
+    },
+    {
+      "title": "The September 2026 SEO Update by Yoast recap",
+      "link": "https://yoast.com/the-september-2026-seo-update-by-yoast-recap/",
+      "published": "Wed, 07 Oct 2026 09:37:26 +0000",
+      "summary": "<p>Each month, we host the SEO Update by Yoast, covering the latest in search and AI. In this edition, Carolyn Shelby and Alex Moss discussed Google&#8217;s latest content updates, the impact of AI on"
+    },
+    {
       "title": "Introducing Yoast SEO AI+ for Shopify",
       "link": "https://yoast.com/yoast-seo-for-shopify-oct-1-2026/",
       "published": "Thu, 01 Oct 2026 12:30:58 +0000",
@@ -17,18 +29,6 @@
       "link": "https://yoast.com/podcast/the-seo-update-by-yoast-october-2026/",
       "published": "Thu, 01 Oct 2026 11:00:24 +0000",
       "summary": "<p>Join Carolyn Shelby and Alex Moss for the latest SEO insights that matter.</p>\n<p>The post <a href=\"https://yoast.com/podcast/the-seo-update-by-yoast-october-2026/\">The SEO Update by Yoast \u2013 Octobe"
-    },
-    {
-      "title": "Turn your AI tools from spectators into collaborators with Yoast",
-      "link": "https://yoast.com/yoast-seo-sept-29-2026/",
-      "published": "Tue, 29 Sep 2026 07:12:01 +0000",
-      "summary": "<p>If you&#8217;ve been setting up MCP connections or agentic workflows, this release is for you. You ask an AI tool to check your site&#8217;s SEO. It comes back with real findings: a product page th"
-    },
-    {
-      "title": "A prompting guide for AI website builders",
-      "link": "https://yoast.com/prompting-guide-ai-website-builders/",
-      "published": "Thu, 17 Sep 2026 12:51:25 +0000",
-      "summary": "<p>AI website builders make it possible to go from a blank screen to a live website in minutes. Which is a great option if you want to get your website live, but don\u2019t have the technical skills to get"
     }
   ],
   "Rank Math": [
