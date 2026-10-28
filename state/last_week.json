@@ -1,37 +1,43 @@
 {
   "Yoast": [
     {
+      "title": "The October 2026 SEO Update by Yoast recap",
+      "link": "https://yoast.com/the-october-2026-seo-update-by-yoast-recap/",
+      "published": "Wed, 28 Oct 2026 15:18:52 +0000",
+      "summary": "<p>Welcome to the recap of the October 2026 SEO Update by Yoast! This month, Carolyn Shelby and Alex Moss dug into the latest search news, from Google\u2019s multimodal filters to AI spam crackdowns, and e"
+    },
+    {
+      "title": "Image SEO: How to optimize alt and title text",
+      "link": "https://yoast.com/image-seo-alt-tag-and-title-tag-optimization/",
+      "published": "Tue, 27 Oct 2026 08:34:54 +0000",
+      "summary": "<p>Adding images to your posts and product pages makes your content more engaging. Good images support your message and improve your chances of appearing in image search, visual search, and AI-powered"
+    },
+    {
+      "title": "Yoast AI Generate for image alt text: from flagged to fixed",
+      "link": "https://yoast.com/yoast-seo-oct-27-2026/",
+      "published": "Tue, 27 Oct 2026 07:58:22 +0000",
+      "summary": "<p>Yoast already shows you which product images are missing alt text. Now you can fix them. Yoast AI Generate for image alt text is new in Yoast WooCommerce SEO 17.0, out today alongside Yoast SEO and"
+    },
+    {
+      "title": "The SEO Update by Yoast \u2013 November 2026",
+      "link": "https://yoast.com/podcast/the-seo-update-by-yoast-november-2026/",
+      "published": "Mon, 26 Oct 2026 10:11:27 +0000",
+      "summary": "<p>Join Carolyn Shelby and Alex Moss for the latest SEO insights that matter.</p>\n<p>The post <a href=\"https://yoast.com/podcast/the-seo-update-by-yoast-november-2026/\">The SEO Update by Yoast \u2013 Novem"
+    },
+    {
       "title": "Yoast SEO 28.7: more Abilities updates and our yearly code cleanup",
       "link": "https://yoast.com/yoast-seo-oct-13-2026/",
       "published": "Tue, 13 Oct 2026 07:35:10 +0000",
       "summary": "<p>You can now use your AI tool to update titles, meta descriptions, and social previews. This release also includes our yearly cleanup of deprecated code.</p>\n<p>The post <a href=\"https://yoast.com/y"
-    },
-    {
-      "title": "Yoast SEO vs All in One SEO: which WordPress plugin is right for you?",
-      "link": "https://yoast.com/yoast-vs-all-in-one-seo/",
-      "published": "Wed, 07 Oct 2026 12:17:58 +0000",
-      "summary": "<p>If you&#8217;re weighing Yoast SEO vs All in One SEO, you&#8217;re asking the right question. Your SEO plugin touches almost every page you publish. It shapes how search engines read your site and "
-    },
-    {
-      "title": "The September 2026 SEO Update by Yoast recap",
-      "link": "https://yoast.com/the-september-2026-seo-update-by-yoast-recap/",
-      "published": "Wed, 07 Oct 2026 09:37:26 +0000",
-      "summary": "<p>Each month, we host the SEO Update by Yoast, covering the latest in search and AI. In this edition, Carolyn Shelby and Alex Moss discussed Google&#8217;s latest content updates, the impact of AI on"
-    },
-    {
-      "title": "Introducing Yoast SEO AI+ for Shopify",
-      "link": "https://yoast.com/yoast-seo-for-shopify-oct-1-2026/",
-      "published": "Thu, 01 Oct 2026 12:30:58 +0000",
-      "summary": "<p>Yoast SEO AI+ for Shopify is live today. The new plan combines Yoast SEO for Shopify with Yoast AI Brand Insights, giving you visibility into how AI systems like ChatGPT, Gemini, Claude, and Perple"
-    },
-    {
-      "title": "1 billion downloads: The people and stories behind Yoast SEO",
-      "link": "https://yoast.com/one-billion-downloads-user-stories/",
-      "published": "Thu, 01 Oct 2026 11:42:14 +0000",
-      "summary": "<p>1 billion downloads of Yoast SEO. That\u2019s a milestone worth celebrating. But behind that number are the people who made it possible: the bloggers who wanted more people to find their content, the bu"
     }
   ],
   "Rank Math": [
+    {
+      "title": "The 3-Phase Framework for AI Visibility: From Zero to Category Leader",
+      "link": "https://rankmath.com/blog/framework-for-ai-visibility/",
+      "published": "Tue, 27 Oct 2026 05:17:36 +0000",
+      "summary": "<p><img src=\"https://rankmath.com/wp-content/uploads/2026/10/The-3-Phase-Framework-for-AI-Visibility-1.png\" style=\"display: block; margin: 1em auto;\" /></p>\n<p>Your website is live, your pages are opt"
+    },
     {
       "title": "Free vs Paid WordPress Plugins: Which Should You  Choose?",
       "link": "https://rankmath.com/blog/free-vs-paid-wordpress-plugins/",
@@ -55,12 +61,6 @@
       "link": "https://rankmath.com/blog/monsterinsights-vs-rank-math-analytics/",
       "published": "Wed, 02 Sep 2026 05:31:07 +0000",
       "summary": "<p><img src=\"https://rankmath.com/wp-content/uploads/2026/08/Monsterinsights-vs-Rank-Math-Analytics-Which-WordPress-Analytics-Tool-Is-Right-for-You.png\" style=\"display: block; margin: 1em auto;\" /></p"
-    },
-    {
-      "title": "7 Affordable SEO Services to Grow Your Traffic",
-      "link": "https://rankmath.com/blog/seo-services/",
-      "published": "Mon, 24 Aug 2026 07:04:06 +0000",
-      "summary": "<p><img src=\"https://rankmath.com/wp-content/uploads/2026/08/7-Best-Affordable-SEO-Services-Get-More-Traffic-Without-Breaking-the-Bank.png\" style=\"display: block; margin: 1em auto;\" /></p>\n<p>SEO can "
     }
   ],
   "SEO Framework": [
