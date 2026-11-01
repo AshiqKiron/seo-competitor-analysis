@@ -1,11 +1,6 @@
-# 📊 SEO Competitor Intelligence — Week of 2026-10-31
+# 📊 SEO Competitor Intelligence — Week of 2026-11-01
 
-### 🆕 Yoast
-
-1. **More than bling: How SEO can help your jewelry brand get found**
-   - 📝 <p>Your jewelry can have all the bling, but first, people need to find it. Whether you sell ready-to
-   - 🎯 Impact: **LOW**
-   - 💡 Action: Review: https://yoast.com/seo-tip-for-jewelers/
+### ✅ Yoast: No new strategic updates
 
 ### ✅ Rank Math: No new strategic updates
 
