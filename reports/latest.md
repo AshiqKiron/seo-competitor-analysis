@@ -1,4 +1,4 @@
-# 📊 SEO Competitor Intelligence — Week of 2026-11-07
+# 📊 SEO Competitor Intelligence — Week of 2026-11-10
 
 ### ✅ Yoast: No new strategic updates
 
