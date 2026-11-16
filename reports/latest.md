@@ -1,12 +1,6 @@
-# 📊 SEO Competitor Intelligence — Week of 2026-11-13
+# 📊 SEO Competitor Intelligence — Week of 2026-11-16
 
-### 🆕 Yoast
-
-1. **Foodblogger podcast: How to stay discoverable as search evolves with Carolyn Shelby**
-   - 📝 <p>Carolyn Shelby shares SEO tips for staying visible across AI-powered search platforms.</p>
-<p>The
-   - 🎯 Impact: **LOW**
-   - 💡 Action: Review: https://yoast.com/podcast/foodblogger-podcast-how-to-stay-discoverable-as-search-evolves-with-carolyn-shelby/
+### ✅ Yoast: No new strategic updates
 
 ### ✅ Rank Math: No new strategic updates
 
