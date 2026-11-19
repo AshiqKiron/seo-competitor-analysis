@@ -1,6 +1,24 @@
 {
   "Yoast": [
     {
+      "title": "The SEO Update by Yoast \u2013 December 2026",
+      "link": "https://yoast.com/podcast/the-seo-update-by-yoast-december-2026/",
+      "published": "Thu, 19 Nov 2026 10:54:02 +0000",
+      "summary": "<p>Join Carolyn Shelby and Alex Moss for the latest SEO insights that matter.</p>\n<p>The post <a href=\"https://yoast.com/podcast/the-seo-update-by-yoast-december-2026/\">The SEO Update by Yoast \u2013 Decem"
+    },
+    {
+      "title": "Foodblogger podcast: SEO vs. GEO \u2013 what\u2019s changed, what hasn\u2019t, and where creators have the edge with Alex Moss",
+      "link": "https://yoast.com/podcast/foodblogger-podcast-seo-vs-geo-whats-changed-what-hasnt-and-where-creators-have-the-edge-with-alex-moss/",
+      "published": "Wed, 18 Nov 2026 09:56:49 +0000",
+      "summary": "<p>Alex Moss explores how SEO fundamentals help food bloggers stay visible in AI-powered search.</p>\n<p>The post <a href=\"https://yoast.com/podcast/foodblogger-podcast-seo-vs-geo-whats-changed-what-ha"
+    },
+    {
+      "title": "Catch weak alt text: five new assessments, fix with AI for stores, and more abilities",
+      "link": "https://yoast.com/release-2026-11-17/",
+      "published": "Wed, 18 Nov 2026 07:50:35 +0000",
+      "summary": "<p>The seasonal rush is almost here. Before your busiest weeks, it&#8217;s worth making sure your site works for every visitor, and for every tool you use to run it. That&#8217;s the idea behind this "
+    },
+    {
       "title": "Foodblogger podcast: How to stay discoverable as search evolves with Carolyn Shelby",
       "link": "https://yoast.com/podcast/foodblogger-podcast-how-to-stay-discoverable-as-search-evolves-with-carolyn-shelby/",
       "published": "Fri, 13 Nov 2026 09:37:39 +0000",
@@ -11,27 +29,15 @@
       "link": "https://yoast.com/seo-tip-for-jewelers/",
       "published": "Fri, 30 Oct 2026 14:46:12 +0000",
       "summary": "<p>Your jewelry can have all the bling, but first, people need to find it. Whether you sell ready-to-wear pieces, craft custom designs, or make jewelry for other businesses, search can put your work i"
-    },
-    {
-      "title": "The October 2026 SEO Update by Yoast recap",
-      "link": "https://yoast.com/the-october-2026-seo-update-by-yoast-recap/",
-      "published": "Wed, 28 Oct 2026 15:18:52 +0000",
-      "summary": "<p>Welcome to the recap of the October 2026 SEO Update by Yoast! This month, Carolyn Shelby and Alex Moss dug into the latest search news, from Google\u2019s multimodal filters to AI spam crackdowns, and e"
-    },
-    {
-      "title": "Image SEO: How to optimize alt and title text",
-      "link": "https://yoast.com/image-seo-alt-tag-and-title-tag-optimization/",
-      "published": "Tue, 27 Oct 2026 08:34:54 +0000",
-      "summary": "<p>Adding images to your posts and product pages makes your content more engaging. Good images support your message and improve your chances of appearing in image search, visual search, and AI-powered"
-    },
-    {
-      "title": "Yoast AI Generate for image alt text: from flagged to fixed",
-      "link": "https://yoast.com/yoast-seo-oct-27-2026/",
-      "published": "Tue, 27 Oct 2026 07:58:22 +0000",
-      "summary": "<p>Yoast already shows you which product images are missing alt text. Now you can fix them. Yoast AI Generate for image alt text is new in Yoast WooCommerce SEO 17.0, out today alongside Yoast SEO and"
     }
   ],
   "Rank Math": [
+    {
+      "title": "How to Optimize WordPress Category & Tag Pages",
+      "link": "https://rankmath.com/blog/how-to-optimize-wordpress-category-tag-pages/",
+      "published": "Wed, 18 Nov 2026 07:17:45 +0000",
+      "summary": "<p><img src=\"https://rankmath.com/wp-content/uploads/2026/11/How-to-Optimize-Category-Tag-Pages.png\" style=\"display: block; margin: 1em auto;\" /></p>\n<p>You&#8217;ve spent months writing posts and fil"
+    },
     {
       "title": "Best Rank Tracking Tools for Agencies: 8 Top Picks",
       "link": "https://rankmath.com/blog/best-rank-tracking-tools-for-agencies/",
@@ -55,12 +61,6 @@
       "link": "https://rankmath.com/blog/wordpress-site-management-plugins/",
       "published": "Tue, 15 Sep 2026 04:05:37 +0000",
       "summary": "<p><img src=\"https://rankmath.com/wp-content/uploads/2026/09/Best-WordPress-Site-Management-Plugins.png\" style=\"display: block; margin: 1em auto;\" /></p>\n<p>Managing a WordPress website involves much "
-    },
-    {
-      "title": "The Best White Label SEO Tools to Save Time and Win More Clients",
-      "link": "https://rankmath.com/blog/white-label-seo-tools/",
-      "published": "Tue, 08 Sep 2026 06:03:07 +0000",
-      "summary": "<p><img src=\"https://rankmath.com/wp-content/uploads/2026/09/The-Best-White-Label-SEO-Tools-to-Save-Time-and-Win-More-Clients.png\" style=\"display: block; margin: 1em auto;\" /></p>\n<p>Running an SEO ag"
     }
   ],
   "SEO Framework": [
